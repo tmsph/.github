@@ -1,6 +1,4 @@
-## Welcome to Toyota Mobility Solutions Philippines 👋
-
-### This land is the Software Development and Integration land.
+## Welcome to Toyota Mobility Solutions Philippines, Department of Software Development and Integration 👋
 
 ```mermaid
 timeline
